@@ -1,0 +1,2 @@
+# rabbitmq-docker
+Dockerized RabbitMQ
